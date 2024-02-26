@@ -1,0 +1,6 @@
+LULESH with input 30
+
+Opt level 0: 2m30.124s
+Opt level 1: 0m48.375s
+Opt level 2: 0m46.716s
+Opt level 3: 0m46.611s
